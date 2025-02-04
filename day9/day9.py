@@ -87,24 +87,29 @@ programming_dictionary = {
 # print(nested_lists[2][1]) 
 
 
-
-capitals= {
-    "France": "Paris",
-    "Germany":"Berlin"
-}
+# capitals= {
+#     "France": "Paris",
+#     "Germany":"Berlin"
+# # }
 # Nested ists
 
-travel_logs= {
-    "France" : {
-        "num_times_visited" : 8,
-        "cities_visited": ["Paris","Lille","Berlin"],
-        },
-    "Germany": ["Berlin","Stuttgart"],
-    }
+# travel_logs= {
+#     "France" : {
+#         "num_times_visited" : 8,
+#         "cities_visited": 12,
+#         },
+#     "Germany": {
+#         "cities_visited": ["Berlin","Stuttgart"],
+#         "total_visits" :5
+#     },
+# }
+
+# printing Stuttgart
+# print(travel_logs["Germany"]["cities_visited"][1])
 
 # priting Lille
-print(travel_logs["France"][1])
+# print(travel_logs["France"][1])
 
-nested_list = ["A","B",["C","D"]]
+# nested_list = ["A","B",["C","D"]]
 # printing D
-print(nested_list[2][1])
+# print(nested_list[2][1])
