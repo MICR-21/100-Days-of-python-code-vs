@@ -1,3 +1,4 @@
+import art
 def find_highest_bidder(auction):
     winner = ""
     highest_bid = 0
@@ -9,8 +10,8 @@ def find_highest_bidder(auction):
     print(f"The winner of the auction is {winner} with a bid of ${highest_bid}.")
 
 print("Welcome to the secret auction program.")
-
-auction = {}  # Empty dictionary to store bids
+print(art.logo)
+auction = {}  
 continue_bidding = True
 while continue_bidding:
     name = input("What is your name? ")
