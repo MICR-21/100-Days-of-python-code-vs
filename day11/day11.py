@@ -36,7 +36,6 @@ def player_choice():
     card = random.choice(cards)
     player_cards.append(card)
 
-
 def dealer_choice():
     card = random.choice(cards)
     dealer_cards.append(card)
