@@ -20,10 +20,10 @@ Each day includes:
 
 ## **🚀 Projects List (Some Highlights)**
 Here are some projects I'll be working on:  
-✔ **Day 1-10:** Beginner Projects (e.g., Calculator, Password Generator, hangman, blackjack)  
-✔ **Day 11-30:** Intermediate Projects (e.g., Web Scraper, To-Do App)  
-✔ **Day 31-60:** Advanced Projects (e.g., GUI Apps, APIs, Databases)  
-✔ **Day 61-100:** Expert-Level Projects (e.g., AI, Automation, Web Dev, Data Science)  
+✔ **Day 1-10:** Beginner Projects (e.g., Calculator, Password Generator, Hangman, Blackjack, Ceasar-cipher)  
+✔ **Day 11-30:** Intermediate Projects   
+✔ **Day 31-60:** Advanced Projects   
+✔ **Day 61-100:** Expert-Level Projects 
 
 ## **📜 Progress & Documentation**
 I’ll be documenting my progress, challenges, and lessons learned each day. All code and projects will be available in this repository.  
