@@ -26,5 +26,4 @@ class CoffeeMaker:
         """Deducts the required ingredients from the resources."""
         for item in order.ingredients:
             self.resources[item] -= order.ingredients[item]
-
         print(f"Here is your {order.name} ☕️. Enjoy!")
